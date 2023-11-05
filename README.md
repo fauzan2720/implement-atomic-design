@@ -18,6 +18,10 @@ To clone this repository, follow these steps:
     ```shell
     cd implement-atomic-design
     ```
+5. Checkout to branch `starter`
+    ```shell
+    git checkout starter
+    ```
 
 ## Tips for Implementing Atomic Design
 
