@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:implement_atomic_design/ui/pages/home_page.dart';
+import 'package:implement_atomic_design/ui/home/pages/home_page.dart';
 
 import 'core/constants/colors.dart';
 
