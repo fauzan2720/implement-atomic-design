@@ -2,6 +2,8 @@
 
 This repository contains a Flutter project implementing the Atomic Design pattern for organized and structured UI development.
 
+<img width="413" alt="image" src="https://github.com/fauzan2720/implement-atomic-design/assets/74108522/1cf3b5b5-6dfa-4d0c-b0c6-7a1fc8106b46">
+
 [Figma](https://www.figma.com/file/yjIz0f48fjl7JOijfHoTZq/Sharing-Session?node-id=0%3A1&mode=dev) - Design mapping for structured slicing.
 
 ## How to Clone this Repository
